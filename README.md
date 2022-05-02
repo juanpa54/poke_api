@@ -1,5 +1,6 @@
 # Presentado por Juan Pablo Blanco Márquez para prueba técnica de Falabella
 # Getting Started with Create React App
+![image](https://user-images.githubusercontent.com/83736747/166191609-91130128-72f9-41d4-ac18-eedfe1b616d4.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
